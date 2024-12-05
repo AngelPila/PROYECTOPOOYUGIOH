@@ -1,0 +1,5 @@
+Trampa del Dragón Celestia, Impide ataques de monstruos con atributo Luz, LUZ, TRAMPA
+Rugido del Dragón, Incrementa el ataque de un Dragón., 800, DRAGON, atk, MAGICA
+Trampa del Dragón Celestial, Impide ataques de monstruos con atributo Luz., LUZ, TRAMPA
+Hechicero de la Tormenta, Controla relámpagos., 2000, 1500, DRAGON, LUZ, MONSTRUO
+Rugido del Dragón, Incrementa el ataque de un Dragón., 800, DRAGON, atk, MAGICA
